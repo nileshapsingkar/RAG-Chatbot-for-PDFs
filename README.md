@@ -47,9 +47,9 @@ You will need an OpenAI API key to interact with the OpenAI models. You can obta
 
 4. **Run the Application**  
 Start the Streamlit app:
-   ```bash
+```bash
 streamlit run app.py
-   ```
+```
 This will launch the application in your browser, and you can interact with the chatbot.
 
 ## How It Works
