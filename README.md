@@ -32,7 +32,7 @@ Here are the core libraries used in this project:
 Clone this repository to your local machine:
     
 ```bash
-git clone [https://github.com/your-username/RAG-Chatbot.git](https://github.com/nileshapsingkar/RAG-Chatbot-for-PDFs)
+git clone https://github.com/nileshapsingkar/RAG-Chatbot-for-PDFs
 cd RAG-Chatbot
 ```
 
